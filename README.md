@@ -7,7 +7,10 @@ Spotify:
 
 # 🌟 Elara Lyra Vivaz | Sound Synthesis & Tech Expert
 
-![Banner Elara Lyra Vivaz](LINK_DA_SUA_IMAGEM_AQUI)
+<div align="center">
+  <img src="COLE_AQUI_O_LINK_QUE_VOCE_COPIOU" alt="Elara Lyra Vivaz" width="100%">
+</div>
+
 
 ---
 
